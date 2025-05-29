@@ -1,7 +1,7 @@
 // Restaurant data - add your locations here
 const restaurants = [
     {
-        name: "Luton (Gourmet Junction)",
+        name: "Luton",
         address: "5 Midland Road, Luton LU2 0HS",
         lat: 51.88292,
         lng: -0.41341,
@@ -9,7 +9,7 @@ const restaurants = [
         brands: ["Dim Dum", "Awesome Wings", "MAD"]
     },
     {
-        name: "Darlington (A1 Golden Fry Fish & Chips) ",
+        name: "Darlington",
         address: "111 Victoria Road, Darlington DL1 5JH",
         lat: 54.52152,
         lng:  -1.55003,
