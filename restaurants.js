@@ -1,12 +1,12 @@
 // Restaurant data - add your locations here
 const restaurants = [
     {
-        name: "Downtown Location",
-        address: "123 Main St, New York, NY 10001",
-        lat: 40.7128,
-        lng: -74.0060,
-        model: "Hybrid",
-        brands: ["Brand A", "Brand B", "Brand C"]
+        name: "Gourmet Junction",
+        address: "5 Midland Rd, Luton LU2 0HS",
+        lat: 51.88292,
+        lng: -0.41341,
+        model: "Licensee",
+        brands: ["Dim Dum", "Awesome Wings", "MAD"]
     },
     {
         name: "Uptown Branch",
