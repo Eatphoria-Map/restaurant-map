@@ -18,17 +18,17 @@ const restaurants = [
     },
     {
         name: "Brooklyn Store",
-        address: "789 Atlantic Ave, Brooklyn, NY 11238",
-        lat: 40.6782,
-        lng: -73.9442,
+        address: "",
+        lat: ,
+        lng: ,
         model: "Cloud Kitchen Pick-Up",
         brands: ["Brand B", "Brand C", "Brand E"]
     },
     {
         name: "Queens Outlet",
-        address: "321 Queens Blvd, Queens, NY 11375",
-        lat: 40.7282,
-        lng: -73.8370,
+        address: "",
+        lat: ,
+        lng: ,
         model: "Licensee",
         brands: ["Brand A", "Brand C", "Brand F"]
     }
