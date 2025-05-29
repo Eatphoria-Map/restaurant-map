@@ -16,6 +16,22 @@ const restaurants = [
         model: "Licensee",
         brands: ["Dim Dum", "MAD"]
     },
+    {
+        name: "Hounslow",
+        address: "281-287 High Street, Hounslow TW3 1EF",
+        lat: 51.46795,
+        lng:  -0.36539,
+        model: "Licensee",
+        brands: ["Baskin Robbins"]
+    },
+    {
+        name: "Pool",
+        address: "Fore Street, Pool TR15 3PF",
+        lat: 50.22739,
+        lng:  -5.26964,
+        model: "Licensee",
+        brands: ["Dim Dum", "MAD"]
+    },
 ];
 
 // Model colors for different restaurant types
