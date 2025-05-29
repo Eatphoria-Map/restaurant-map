@@ -10,7 +10,7 @@ const restaurants = [
     },
     {
         name: "A1 Golden Fry Fish & Chips",
-        address: "111 Victoria Road, Darlington, DL1 5JH",
+        address: "111 Victoria Road, Darlington DL1 5JH",
         lat: 54.52152,
         lng:  -1.55003,
         model: "Licensee",
