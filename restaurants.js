@@ -2,7 +2,7 @@
 const restaurants = [
     {
         name: "Gourmet Junction",
-        address: "5 Midland Rd, Luton LU2 0HS",
+        address: "5 Midland Road, Luton LU2 0HS",
         lat: 51.88292,
         lng: -0.41341,
         model: "Licensee",
