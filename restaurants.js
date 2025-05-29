@@ -21,7 +21,7 @@ const restaurants = [
         address: "",
         lat: ,
         lng: ,
-        model: "Cloud Kitchen Pick-Up",
+        model: "",
         brands: ["Brand B", "Brand C", "Brand E"]
     },
     {
@@ -29,7 +29,7 @@ const restaurants = [
         address: "",
         lat: ,
         lng: ,
-        model: "Licensee",
+        model: "",
         brands: ["Brand A", "Brand C", "Brand F"]
     }
 ];
