@@ -16,22 +16,6 @@ const restaurants = [
         model: "Licensee",
         brands: ["Dim Dum", "MAD"]
     },
-    {
-        name: "Brooklyn Store",
-        address: "",
-        lat: ,
-        lng: ,
-        model: "",
-        brands: ["Brand B", "Brand C", "Brand E"]
-    },
-    {
-        name: "Queens Outlet",
-        address: "",
-        lat: ,
-        lng: ,
-        model: "",
-        brands: ["Brand A", "Brand C", "Brand F"]
-    }
 ];
 
 // Model colors for different restaurant types
