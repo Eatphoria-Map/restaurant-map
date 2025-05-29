@@ -9,12 +9,12 @@ const restaurants = [
         brands: ["Dim Dum", "Awesome Wings", "MAD"]
     },
     {
-        name: "Uptown Branch",
-        address: "456 Broadway, New York, NY 10013",
-        lat: 40.7589,
-        lng: -73.9851,
-        model: "Cloud Kitchen",
-        brands: ["Brand A", "Brand D"]
+        name: "A1 Golden Fry Fish & Chips",
+        address: "111 Victoria Road, Darlington, DL1 5JH",
+        lat: 54.52152,
+        lng:  -1.55003,
+        model: "Licensee",
+        brands: ["Dim Dum", "MAD"]
     },
     {
         name: "Brooklyn Store",
