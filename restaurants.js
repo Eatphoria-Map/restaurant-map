@@ -32,6 +32,38 @@ const restaurants = [
         model: "Licensee",
         brands: ["Dim Dum", "MAD"]
     },
+      {
+        name: "Bolton",
+        address: "115 Market Street, Bolton BL4 8EX",
+        lat: 53.54829,
+        lng:  -2.39265,
+        model: "Licensee",
+        brands: ["Baskin Robbins", "MAD"]
+    },
+    {
+        name: "Swindon",
+        address: "Unit 8, Whitbourne Avenue, Park North SN3 2GD",
+        lat: 51.55380,
+        lng:  -1.75043,
+        model: "Licensee",
+        brands: ["Eggsquisite", "Holy Bagel"]
+    },
+    {
+        name: "Bristol",
+        address: "46 Staple Hill Road, Bristol BS16 5BS",
+        lat: 51.48154,
+        lng:  -2.52109,
+        model: "Licensee",
+        brands: ["Eggsquisite", "Holy Bagel"]
+    },
+    {
+        name: "Sale",
+        address: "113 Washway Road, Sale M33 7TY",
+        lat: 53.42108,
+        lng:  -2.32995,
+        model: "Licensee",
+        brands: ["MAD", "Dim Dum", "Awesome Wings"]
+    },
 ];
 
 // Model colors for different restaurant types
